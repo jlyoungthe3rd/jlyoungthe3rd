@@ -12,5 +12,5 @@ I’m a Frontend-focused engineer with a passion for architecting high-performan
 
 ### 🛠️ Tech Stack
 **Languages:** TypeScript, JavaScript, SQL, C# (Unity)
-**Frontend:** React, React Flow, GraphQL, SASS
+**Frontend:** React, React Flow, GraphQL, SASS, Tailwind CSS
 **Quality:** Vitest, React Testing Library, Chrome DevTools, WCAG 2.1
