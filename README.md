@@ -1,15 +1,17 @@
-# Hi, I'm Joe! 👋 
+# Hey, I'm Joe! 👋 
 
+Here's a link to my [Frontend Engineer Portfolio](https://joedesigns.games)
 Here's a link to my [Game Design Portfolio](https://joedesigns.games)
 
-### Software Engineer | UI Infrastructure & Game Design
-I’m a Frontend-focused engineer with a passion for architecting high-performance, interactive user experiences—from complex enterprise data designers to immersive game mechanics. With a **Certificate in Game Design** and a background in building scalable React/TypeScript systems, I specialize in the intersection of **technical rigor** and **player delight**. Currently leveraging **AI-assisted workflows** and modern testing patterns to push the boundaries of what’s possible in web-based interactive media.
+### Frontend Engineer | React & UI
+I’m a Frontend Engineer with a passion for architecting high-performance, interactive user experiences. I have a background in building scalable React/TypeScript UI & systems, I specialize in the creating performant and responsive UI that ranges from data-heavy dashboards, user profile information, and video game UI.
 
 ### 🚀 What I'm Up To
-* 🎮 **Currently Building:** [Unnamed Video Game Project] using Unity and C#.
-* 🤖 **AI-Assisted Dev:** Experimenting with GitHub Copilot to improve developer velocity and code quality.
+* 🎮 **Currently:** Refocusing on skilling up to improve my understanding of modern frontend architecture and how to best utilize AI assisted development workflows to increase velocity and maintain scalable codebases.
 
 ### 🛠️ Tech Stack
-**Languages:** TypeScript, JavaScript, SQL, C# (Unity)
-**Frontend:** React, React Flow, GraphQL, SASS, Tailwind CSS
-**Quality:** Vitest, React Testing Library, Chrome DevTools, WCAG 2.1
+**Frontend Engineering**: React, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3/SCSS, Responsive Web Design
+**Performance & Accessibility**: Frontend Performance Optimization (Core Web Vitals), WCAG Accessibility Standards, Rendering Optimization
+**Testing & Quality**: Vitest, Cypress, Test-Driven Development (TDD), Storybook
+**Design & Collaboration**: Figma, Design Systems, UX Collaboration, GraphQL, TanStack Query, Zustand
+**Developer Tooling**: Vite, ESLint, Git, JIRA, CI/CD Pipelines, GitHub Copilot
